@@ -1265,7 +1265,7 @@ footer,
     justify-content: center;
     flex-wrap: nowrap;
     gap: 0;
-    padding: 0;
+    padding: 0px 15px;
   }
   .footer-left {
     margin-right: 120px;
